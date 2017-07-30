@@ -5,6 +5,3 @@ Flask-RESTful
 Flask-JWT
 
 Flask-SQLAlchemy
-
-i
-psycopg2
