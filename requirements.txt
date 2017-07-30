@@ -6,6 +6,5 @@ Flask-JWT
 
 Flask-SQLAlchemy
 
-werkzeug
 i
 psycopg2
