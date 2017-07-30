@@ -6,6 +6,6 @@ Flask-JWT
 
 Flask-SQLAlchemy
 
-uwsg
+uwsgi
 i
 psycopg2
