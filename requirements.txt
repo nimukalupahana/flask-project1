@@ -1,0 +1,11 @@
+Flask
+
+Flask-RESTful
+
+Flask-JWT
+
+Flask-SQLAlchemy
+
+uwsg
+i
+psycopg2
